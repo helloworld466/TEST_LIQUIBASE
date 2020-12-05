@@ -1,0 +1,1 @@
+create table health(name varchar2(100), age number)
